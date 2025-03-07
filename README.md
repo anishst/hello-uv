@@ -1,4 +1,4 @@
-# a sample to project to test uv package manager
+# A sample project to test [uv package manager](https://docs.astral.sh/uv/)
 
 ## Guides
 
