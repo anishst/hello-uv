@@ -5,3 +5,8 @@ description = "test project for uv"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.9",
+]
