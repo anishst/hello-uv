@@ -3,3 +3,5 @@
 ## Guides
 
 https://docs.astral.sh/uv/guides/projects/
+
+To run app: ```uv run main.py```
